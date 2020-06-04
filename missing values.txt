@@ -1,0 +1,5 @@
+-2 : I don't know
+-3 : I refuse to answer
+-4 : missing value
+-5 : not required to answer the question
+-6 : confusing answer
